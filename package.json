@@ -1,40 +1,46 @@
 {
-  "name": "elizabeth-color-theme",
-  "displayName": "Elizabeth Báthory theme",
-  "description": "A theme dedicated to Elizabeth Báthory, who may or may not have been a vampire.",
-  "version": "1.0.3",
-  "author": {
-    "name": "Coachonko"
-  },
-  "publisher": "Coachonko",
-  "engines": {
-    "vscode": "^1.70.2"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "license": "NCSA",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Coachonko/elizabeth-b-thory.git"
-  },
-  "homepage": "https://github.com/Coachonko/elizabeth-b-thory",
-  "icon": "images/icon.png",
-  "galleryBanner": {
-    "color": "#000000",
-    "theme": "dark"
-  },
-  "bugs": {
-    "url": "https://github.com/Coachonko/elizabeth-b-thory/issues",
-    "email": "info@coachonko.fans"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Elizabeth Báthory",
-        "uiTheme": "vs-dark",
-        "path": "./themes/elizabeth-color-theme.json"
-      }
-    ]
-  }
+	"name": "elizabeth-color-theme",
+	"displayName": "Elizabeth Báthory theme",
+	"description": "A theme dedicated to Elizabeth Báthory, who may or may not have been a vampire.",
+	"version": "1.0.3",
+	"author": {
+		"name": "Coachonko"
+	},
+	"publisher": "Coachonko",
+	"engines": {
+		"vscode": "^1.70.2"
+	},
+	"categories": [
+		"Themes"
+	],
+	"license": "NCSA",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Coachonko/elizabeth-b-thory.git"
+	},
+	"homepage": "https://github.com/Coachonko/elizabeth-b-thory",
+	"icon": "img/icon.png",
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"bugs": {
+		"url": "https://github.com/Coachonko/elizabeth-b-thory/issues",
+		"email": "info@coachonko.fans"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Elizabeth Báthory",
+				"uiTheme": "vs-dark",
+				"path": "./themes/elizabeth-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "29cb1340-b07c-48d2-a39c-5001cd63cfeb",
+		"publisherDisplayName": "Coachonko",
+		"publisherId": "e703052b-77d9-4311-9894-fa01f3839a3f",
+		"isPreReleaseVersion": false
+	}
 }
