@@ -2,7 +2,7 @@
   "name": "elizabeth-color-theme",
   "displayName": "Elizabeth Báthory theme",
   "description": "A theme dedicated to Elizabeth Báthory, who may or may not have been a vampire.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": {
     "name": "Coachonko"
   },
@@ -19,7 +19,7 @@
     "url": "https://github.com/Coachonko/elizabeth-b-thory.git"
   },
   "homepage": "https://github.com/Coachonko/elizabeth-b-thory",
-  "icon": "img/icon.png",
+  "icon": "img/icon.jpeg",
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"

@@ -22,3 +22,7 @@ If you'd like to contribute to this theme, please read the [guidelines](./.githu
 ## License
 
 [NCSA](./LICENSE)
+
+## Notes
+
+The [icon](./img/icon.jpeg) is AI generated
