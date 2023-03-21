@@ -1,6 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "elizabeth-báthory",
+    "type": "dark",
     "author": "Coachonko",
     "maintainers": [
         "Coachonko <info@coachonko.fans>"
