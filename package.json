@@ -31,12 +31,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Elizabeth Báthory",
+        "label": "Elizabeth Báthory (at dusk)",
         "uiTheme": "vs-dark",
         "path": "./themes/elizabeth-color-theme.json"
       },
       {
-        "label": "Elizabeth Báthory (winter)",
+        "label": "Elizabeth Báthory (in winter)",
         "uiTheme": "vs-dark",
         "path": "./themes/elizabeth-winter-color-theme.json"
       }
