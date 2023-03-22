@@ -2,8 +2,8 @@
 
 > A collection of color themes dedicated to Elizabeth Báthory, who may or may not have been a vampire.
 
-![Screenshot_dusk](./img/screenshot_dusk.jpeg)
-![Screenshot_winter](./img/screenshot_winter.jpeg)
+![Screenshot_dusk](https://coachonko.com/content/off-site/elizabeth-bathory/screenshot_dusk.jpeg)
+![Screenshot_winter](https://coachonko.com/content/off-site/elizabeth-bathory/screenshot_winter.jpeg)
 
 ## Instructions
 
