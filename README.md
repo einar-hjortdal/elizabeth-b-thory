@@ -12,6 +12,12 @@
   "editor.renderLineHighlight": "all",
   "editor.renderWhitespace": "all",
   "editor.cursorStyle": "block",
+  "editor.fontFamily": "'Cascadia Code PL', 'monospace', monospace",
+  "editor.fontLigatures": "'calt', 'ss01'",
+  "editor.rulers": [
+    100,
+    120
+  ]
 }
 ```
 
@@ -21,7 +27,7 @@ If you'd like to contribute to this theme, please read the [guidelines](./.githu
 
 ## License
 
-[NCSA](./LICENSE)
+[NCSA](./LICENSE.md)
 
 ## Notes
 
