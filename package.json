@@ -1,14 +1,14 @@
 {
   "name": "elizabeth-color-theme",
   "displayName": "Elizabeth Báthory theme",
-  "description": "A theme dedicated to Elizabeth Báthory, who may or may not have been a vampire.",
-  "version": "1.1.0",
+  "description": "A theme collection dedicated to Elizabeth Báthory, who may or may not have been a vampire.",
+  "version": "1.2.0",
   "author": {
     "name": "Coachonko"
   },
   "publisher": "Coachonko",
   "engines": {
-    "vscode": "^1.70.2"
+    "vscode": "^1.75.1"
   },
   "categories": [
     "Themes"
@@ -34,6 +34,11 @@
         "label": "Elizabeth Báthory",
         "uiTheme": "vs-dark",
         "path": "./themes/elizabeth-color-theme.json"
+      },
+      {
+        "label": "Elizabeth Báthory (winter)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/elizabeth-winter-color-theme.json"
       }
     ]
   },
