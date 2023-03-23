@@ -509,7 +509,6 @@
       ],
       "settings": {
         "foreground": "#01b7df",
-        "fontStyle": "normal"
       }
     },
     {
@@ -736,7 +735,6 @@
         "variable.other.predefined"
       ],
       "settings": {
-        "fontStyle": "regular",
         "foreground": "#a165f6"
       }
     },
@@ -867,7 +865,6 @@
         "source.groovy storage.type.def"
       ],
       "settings": {
-        "fontStyle": "regular",
         "foreground": "#ff5cb8"
       }
     },
@@ -1060,7 +1057,6 @@
         "meta.variable.assignment.destructured.object.coffee variable variable"
       ],
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#f1f1e4"
       }
     },
@@ -1128,7 +1124,6 @@
         "support.constant"
       ],
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#a165f6"
       }
     },
